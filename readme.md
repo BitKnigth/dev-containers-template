@@ -1,0 +1,2 @@
+- .zshrc
+	- Modified base .zshrc configuration that is build based on my host base config, but added 'cd ~' to ensure container loads at home dir and 'export PATH="$HOME/.local/bin:$PATH"' to ensure the poetry is added to $PATH
